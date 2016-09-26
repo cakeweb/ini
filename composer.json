@@ -1,0 +1,16 @@
+{
+    "name": "cakeweb/ini",
+    "description": "Leitor de arquivos .ini com suporte a herança de seções",
+    "type": "git",
+    "authors": [
+        {
+            "name": "CakeWeb",
+            "email": "contato@cakeweb.com.br"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CakeWeb\\": "src/"
+        }
+    }
+}
